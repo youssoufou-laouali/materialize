@@ -1,0 +1,28 @@
+.pad {
+    padding: 150px 0px;
+    position: relative;
+    bottom: 65px;
+    z-index: -1;
+}
+
+.bg1 {
+    background-image: url(g2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 30px;
+}
+
+.bg2 {
+    background-image: url(g3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 10px;
+}
+
+.padde {
+    padding: 30px 10px;
+}
+
+.deco {
+    font-style: italic;
+}

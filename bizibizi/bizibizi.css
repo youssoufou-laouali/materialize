@@ -1,0 +1,14 @@
+.trans {
+    background-color: rgb(8, 243, 243);
+}
+
+.ajuste {
+    position: relative;
+    bottom: 80px;
+    z-index: 2;
+}
+
+.padde {
+    padding: 10px;
+    margin-bottom: 20px;
+}

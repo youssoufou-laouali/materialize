@@ -1,0 +1,17 @@
+.padde {
+    padding-bottom: 30px;
+}
+
+.carte {
+    margin: 1rem;
+}
+
+.padde a {
+    display: inline-block;
+    margin: 15px;
+}
+
+.gallerie img {
+    height: 200px;
+}
+
